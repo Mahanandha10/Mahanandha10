@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on FullStack Java Developer<br>👯 I'm looking to collaborate on open-source Java libraries and frameworks.<br>🤝 I'm looking for help with optimizing database queries in Java applications.<br>🌱 I'm currently learning Spring Boot to enhance my Java development skills.<br>⚡ Fun fact: In addition to being a Java developer, I'm also a night owl who loves watching movies late into the night. 🍿🌙
+🔭 I’m currently working on FullStack Java Developer and Mobile app development using Flutter<br>👯 I'm looking to collaborate on open-source Java libraries and frameworks.<br>🤝 I'm looking for help with optimizing database queries in Java applications.<br>🌱 I'm currently learning Spring Boot to enhance my Java development skills.
 
 
 ## 🌐 Socials:
