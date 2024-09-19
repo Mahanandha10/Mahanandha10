@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahanandha10&label=Profile%20views&color=0e75b6&style=flat" alt="mahanandha" /> </p>
 
-<p align="left"> <a href="https://www.instagram.com/mahanandha_mj/" target="blank"><img src="https://img.shields.io/twitter/follow/mahanandha?logo=twitter&style=for-the-badge" alt="mahanandha" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/mahanandha_mj/" target="blank"><img src="https://img.shields.io/twitter/follow/mahanandha_mj?logo=twitter&style=for-the-badge" alt="mahanandha" /></a> </p>
 
 - 🔭 I’m currently working on **My Self**
 
@@ -16,13 +16,13 @@
 
 - 💬 Ask me about **Java FullStack Development**
 
-- 📫 How to reach me **debarjitmohantybanty@gmail.com**
+- 📫 How to reach me **mahanandhan2002@gmail.com**
 
 - ⚡ Fun fact **Only Coding....**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mahanandha-mj10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahanandha-mj10/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mahanandha-mj10/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahanandha-mj10/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mahanandha_mj/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mahanandha_mj/" height="30" width="40" /></a>
 </p>
 
@@ -53,6 +53,3 @@ Your opinion matters! Feel free to create an issue or get in touch with [Mahanan
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mahanandha10&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
