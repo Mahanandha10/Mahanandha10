@@ -6,7 +6,7 @@
 
 <img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahanandha_mj&label=Profile%20views&color=0e75b6&style=flat" alt="mahanandha" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mahanandha10&label=Profile%20views&color=0e75b6&style=flat" alt="mahanandha" /> </p>
 
 <p align="left"> <a href="https://www.instagram.com/mahanandha_mj/" target="blank"><img src="https://img.shields.io/twitter/follow/mahanandha?logo=twitter&style=for-the-badge" alt="mahanandha" /></a> </p>
 
