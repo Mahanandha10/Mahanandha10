@@ -1,7 +1,6 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png)
 <h1 align="center">Hi 👋, I'm Mahanandha J</h1>
 <h3 align="center">A passionate Full-stack Java developer from India</h3>
-# 💫 About Me:
 🔭 I’m currently working on FullStack Java Developer and Mobile app development using Flutter<br>👯 I'm looking to collaborate on open-source Java libraries and frameworks.<br>🤝 I'm looking for help with optimizing database queries in Java applications.<br>🌱 I'm currently learning Spring Boot to enhance my Java development skills.
 
 <img align="right" alt="coding" width="450" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
